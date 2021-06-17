@@ -55,7 +55,8 @@ return massiv[a]+topleft+bottomleft+topright+bottomright+top+bottom+leftt+rightt
    //summa znachenii pealinga
 
 int pole (){
-    printf("   0 1 2 3 4 5 6 7 8 9\n   _ _ _ _ _ _ _ _ _ _\n");
+   cout<<"   0 1 2 3 4 5 6 7 8 9"<<endl;
+   cout<<"   _ _ _ _ _ _ _ _ _ _"<<endl;
 for(int ii=0;ii<10;ii++)
 {
 cout<<ii<<'|';
